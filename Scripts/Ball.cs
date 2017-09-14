@@ -39,4 +39,7 @@ public class Ball : MonoBehaviour {
 	{
 		audio.Play ();
 	}
+	void run(){
+
+	}
 }
