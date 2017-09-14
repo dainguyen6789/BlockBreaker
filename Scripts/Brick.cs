@@ -42,4 +42,7 @@ public class Brick : MonoBehaviour {
 		this.GetComponent<SpriteRenderer> ().sprite = hitSprite [timesHit-1];
 
 	}
+	void run(){
+		
+	}
 }
